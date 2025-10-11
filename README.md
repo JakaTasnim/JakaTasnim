@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋I'm Jaka Tasnim
+
+### 🚀 About Me
+<div align="left">
+  <p>
+  Hey there! I'm <b>Tony Stark</b>, a developer who loves crafting modern, scalable web applications and exploring how <b>AI can make tech more human</b>. I enjoy building projects that blend creativity with logic — from intelligent ML models to sleek, interactive front-end designs.
+  </p>
+</div>
+
+---
 
 <!--
 **JakaTasnim/JakaTasnim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
